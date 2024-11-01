@@ -23,7 +23,7 @@ const Avatar = ({
         alt={alt}
         fill
         sizes={`${size}px`}
-        className="object-cover"
+        className="object-fill"
         priority={true} // Charge l'image en priorité car c'est généralement au-dessus de la fold
       />
     </div>
