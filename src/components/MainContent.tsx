@@ -132,5 +132,3 @@ export default MainContent;
   }, 3);
  *
  */
-
-// Trouver la hauteur maximale pour définir la taille du conteneur
